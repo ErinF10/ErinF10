@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I am an aspiring Full Stack developer and CS student at Brooklyn College
 
 <!--
 **ErinF10/ErinF10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
