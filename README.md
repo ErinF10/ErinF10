@@ -3,7 +3,7 @@
 <h2> Current Technical Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice: </b>
-  - [Praciting DS & Algos in Python](https://github.com/ErinF10/DS-and-Algos-Practice/tree/main)
+  - [Praciting DS & Algos in Java](https://github.com/ErinF10/DS-and-Algos-Practice/tree/main)
  
   <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
