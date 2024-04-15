@@ -1,9 +1,15 @@
 <h1>Hi, I'm Erin :) <br/><a href="https://github.com/ErinF10">Aspiring Full Stack developer</a> and  <a href="https://www.linkedin.com/in/erin-forrest-267083258/">CS Student at Brooklyn College</a></h1>
 
-<h2> Current Technical Projects:</h2>
+<h2>Current Technical Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice: </b>
+- <b>Data Structures and Algorithms Practice:</b>
   - [Praciting DS & Algos in Java](https://github.com/ErinF10/DS-and-Algos-Practice/tree/main)
+- <b>Java:</b>
+  - [Bank Application](https://github.com/ErinF10/Bank-Application)
+  - [Small Projects](https://github.com/ErinF10/Java-Projects)
+- <b>Python:</b>
+  - [Small Projects](https://github.com/ErinF10/Python-Projects)
+
  
   <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
