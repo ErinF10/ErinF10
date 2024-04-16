@@ -10,7 +10,7 @@
 - <b>Python:</b>
   - [Small Projects](https://github.com/ErinF10/Python-Projects)
 
-<h2>In Progress...</h2>
+<h3>In Progress...</h3>
 
 - <b>Web Design:</b>
   - [Who Wants to be a Millionare?](https://github.com/ErinF10/who-wants-to-be-a-millionaire)
