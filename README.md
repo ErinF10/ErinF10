@@ -10,15 +10,16 @@
   - [Small Projects](https://github.com/ErinF10/Java-Projects)
 - <b>Python:</b>
   - [Small Projects](https://github.com/ErinF10/Python-Projects)
+ 
 
 <h3>In Progress...</h3>
 
 - <b>Web Design:</b>
-  - [Who Wants to be a Millionare?](https://github.com/ErinF10/who-wants-to-be-a-millionaire)
+   - [Who Wants to be a Millionare?](https://github.com/ErinF10/who-wants-to-be-a-millionaire)
 - <b>Database Management and Design:</b>
   - ["Fetsy" Database](https://github.com/ErinF10/-Fetsy-Practice-Database)
- 
-  <!--
+  
+ <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
