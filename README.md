@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice:</b>
   - [Practicing DS & Algos in Java](https://github.com/ErinF10/DS-and-Algos-Practice/tree/main)
-  - [Practicing DS and Algos in Python](https://github.com/ErinF10/Practicing-DS-and-Algos-in-Python.git)
+  - [Practicing DS & Algos in Python](https://github.com/ErinF10/Practicing-DS-and-Algos-in-Python.git)
 - <b>Java:</b>
   - [Bank Application](https://github.com/ErinF10/Bank-Application)
   - [Small Projects](https://github.com/ErinF10/Java-Projects)
