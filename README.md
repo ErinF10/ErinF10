@@ -1,4 +1,4 @@
-<h1>Hi, I'm Erin :) <br/><a href="https://publuu.com/flip-book/469392/1055371">Aspiring Full Stack Developer</a> and  <a href="https://www.linkedin.com/in/erin-forrest-267083258/">CS Student at Brooklyn College</a></h1>
+<h1>Hi, I'm Erin :) <br/><a href="https://drive.google.com/file/d/1u4cLpBcYDqmRLwdzhIHbpK2eR5FBtBOb/view?usp=drive_link">Aspiring Full Stack Developer</a> and  <a href="https://www.linkedin.com/in/erin-forrest-267083258/">CS Student at Brooklyn College</a></h1>
 
 <h2>Technical Projects:</h2>
 
