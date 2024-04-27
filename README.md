@@ -1,4 +1,3 @@
-![White Minimalist Simple Aesthetic Name Twitter Header (3)](https://github.com/ErinF10/ErinF10/assets/144135752/b0869ac4-25bc-4ae6-b8f2-48cbbc6e4761)
 ![White Minimalist Simple Aesthetic Name Twitter Header (1)](https://github.com/ErinF10/ErinF10/assets/144135752/620b746a-c8de-4167-8c4a-2d0cf3b91640)
 
 
