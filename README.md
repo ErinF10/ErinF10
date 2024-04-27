@@ -1,3 +1,6 @@
+
+![White Minimalist Simple Aesthetic Name Twitter Header (1)](https://github.com/ErinF10/ErinF10/assets/144135752/7c48553e-1ecf-4201-a7c6-0e0f7cc2506b)
+
 <h1>Hi, I'm Erin :) <br/><a href="https://drive.google.com/file/d/1u4cLpBcYDqmRLwdzhIHbpK2eR5FBtBOb/view?usp=drive_link">Aspiring Full Stack Developer</a> and  <a href="https://www.linkedin.com/in/erin-forrest-267083258/">CS Student at Brooklyn College</a></h1>
 
 <h2>Technical Projects:</h2>
