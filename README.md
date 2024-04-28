@@ -4,8 +4,10 @@
 <h1>Hi, I'm Erin :) <br/><a href="https://drive.google.com/file/d/1u4cLpBcYDqmRLwdzhIHbpK2eR5FBtBOb/view?usp=drive_link">Aspiring Full Stack Developer</a> and  <a href="https://www.linkedin.com/in/erin-forrest-267083258/">CS Student at Brooklyn College</a></h1>
 
 <h2>Technical Projects:</h2>
-<a href="https://github.com/ErinF10/ErinF10/assets/144135752/f2e4d3fd-9f2f-4d3e-b910-b7f911b40733"><img width="350" height="350" align="right" src="https://github.com/ErinF10/ErinF10/assets/144135752/f2e4d3fd-9f2f-4d3e-b910-b7f911b40733"></a>
-
+<picture>
+<a href="https://github.com/ErinF10/ErinF10/assets/144135752/f2e4d3fd-9f2f-4d3e-b910-b7f911b40733"><img width="350" height="350" align="right" src="https://github.com/ErinF10/ErinF10/assets/144135752/f2e4d3fd-9f2f-4d3e-b910-b7f911b40733"><source media="(prefers-color-scheme: light)" srcset="https://github.com/ErinF10/ErinF10/assets/144135752/f2e4d3fd-9f2f-4d3e-b910-b7f911b40733"></a>
+<a href="https://github.com/ErinF10/ErinF10/assets/144135752/6a6f820f-8ba4-446c-ab77-86564ffa16ec"><img width="350" height="350" align="right" src="https://github.com/ErinF10/ErinF10/assets/144135752/6a6f820f-8ba4-446c-ab77-86564ffa16ec"><source media="(prefers-color-scheme: dark)" srcset="https://github.com/ErinF10/ErinF10/assets/144135752/6a6f820f-8ba4-446c-ab77-86564ffa16ec"></a>
+</picture>
 
 - <b>Data Structures and Algorithms Practice:</b>
   - [Practicing DS & Algos in Java](https://github.com/ErinF10/DS-and-Algos-Practice/tree/main)
