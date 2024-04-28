@@ -1,6 +1,4 @@
-
-<!-- ![White Minimalist Simple Aesthetic Name Twitter Header (8)](https://github.com/ErinF10/ErinF10/assets/144135752/3b3807fa-db80-47a1-9ad9-0c348fc9187b) -->
-  <a href="https://github.com/ErinF10/ErinF10/assets/144135752/3b3807fa-db80-47a1-9ad9-0c348fc9187b"><img width="880" height="200"  src="https://github.com/ErinF10/ErinF10/assets/144135752/3b3807fa-db80-47a1-9ad9-0c348fc9187b"></a>
+  <a href="https://github.com/ErinF10/ErinF10/assets/144135752/3b3807fa-db80-47a1-9ad9-0c348fc9187b"><img width="870" height="220"  src="https://github.com/ErinF10/ErinF10/assets/144135752/3b3807fa-db80-47a1-9ad9-0c348fc9187b"></a>
     
 <h1>Hi, I'm Erin :) <br/><a href="https://drive.google.com/file/d/1u4cLpBcYDqmRLwdzhIHbpK2eR5FBtBOb/view?usp=drive_link">Aspiring Full Stack Developer</a> and  <a href="https://www.linkedin.com/in/erin-forrest-267083258/">CS Student at Brooklyn College</a></h1>
 
