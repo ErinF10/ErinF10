@@ -35,3 +35,10 @@
    - [Who Wants to be a Millionare?](https://github.com/ErinF10/who-wants-to-be-a-millionaire)
 - <b>Database Management and Design:</b>
   - ["Fetsy" Database](https://github.com/ErinF10/-Fetsy-Practice-Database)
+
+<h2>What I'm Learning:</h2>
+
+- <b>Front-end and Web Design:</b>
+   - JavaScript, HTML, CSS
+- <b>Machine Learning:</b>
+   - PyTorch
