@@ -31,9 +31,9 @@
 
 <h3>In Progress...</h3>
 
-- <b>Web Design:</b>
+- <b>Web Design: HTML, CSS, JavaScript, Express.js</b>
    - [Who Wants to be a Millionare?](https://github.com/ErinF10/Who-Wants-To-Be-A-Millionaire-)
-- <b>Database Management and Design:</b>
+- <b>Database Management and Design: MySQL</b>
   - ["Fetsy" Database](https://github.com/ErinF10/-Fetsy-Practice-Database)
 
 <h2>What I'm Learning:</h2>
