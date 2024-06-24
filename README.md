@@ -40,6 +40,6 @@
 <h2>What I'm Learning:</h2>
 
 - <b>Front-end and Web Design:</b>
-   - JavaScript, HTML, CSS
+   - JavaScript, HTML, CSS, React.js
 - <b>Machine Learning:</b>
-   - PyTorch
+   - PyTorch, pandas
