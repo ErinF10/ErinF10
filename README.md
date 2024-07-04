@@ -35,6 +35,7 @@
 
 - <b>Web Design: HTML, CSS, JavaScript, Express.js</b>
    - [CS Trivia Game](https://github.com/ErinF10/Who-Wants-To-Be-A-Millionaire-)
+   - [Todo App](https://github.com/ErinF10/todo-app)
 
 
 <h2>What I'm Learning:</h2>
