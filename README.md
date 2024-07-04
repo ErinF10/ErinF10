@@ -33,7 +33,7 @@
 
 <h3>In Progress...</h3>
 
-- <b>Web Design: HTML, CSS, JavaScript, Express.js</b>
+- <b>Web Design: HTML, CSS, JavaScript, React.js</b>
    - [CS Trivia Game](https://github.com/ErinF10/Who-Wants-To-Be-A-Millionaire-)
    - [Todo App](https://github.com/ErinF10/todo-app)
 
