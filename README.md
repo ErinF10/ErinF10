@@ -33,6 +33,6 @@
 <h2>What I'm Learning:</h2>
 
 - <b>Front-end and Web Design:</b>
-   - React.js
+   - React.js, Tailwind CSS
 - <b>Machine Learning:</b>
    - PyTorch, pandas
