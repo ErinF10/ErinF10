@@ -11,8 +11,8 @@
   <img img width="350" height="350" align="right" src="https://github.com/ErinF10/ErinF10/assets/144135752/5418d2c7-e0c7-4341-b91d-0d580848b65b">
 </picture>
 
-- <b>Database Management and Design: MySQL</b>
-  - ["Fetsy" Database](https://github.com/ErinF10/-Fetsy-Practice-Database)
+- <b>Database Management and Design:</b>
+  - ["Fetsy" Database: MySQL](https://github.com/ErinF10/-Fetsy-Practice-Database)
 - <b>Data Structures and Algorithms Practice:</b>
   - [Practicing DS & Algos in Java](https://github.com/ErinF10/DS-and-Algos-Practice/tree/main)
   - [Practicing DS & Algos in Python](https://github.com/ErinF10/Practicing-DS-and-Algos-in-Python.git)
@@ -25,14 +25,16 @@
 
 <h3>In Progress...</h3>
 
-- <b>Web Design: HTML, CSS, JavaScript, React.js</b>
-   - [CS Trivia Game](https://github.com/ErinF10/Who-Wants-To-Be-A-Millionaire-)
-   - [Todo App](https://github.com/ErinF10/todo-app)
-
+- <b>Web Development:</b>
+   - [CS Trivia Game: JavaScript](https://github.com/ErinF10/Who-Wants-To-Be-A-Millionaire-)
+   - [Todo App: React](https://github.com/ErinF10/todo-app)
+   - [Review Application- freeCodeCamp: Java, Spring Boot, MongoDB, React](https://github.com/ErinF10/review-application-freeCodeCamp)
 
 <h2>What I'm Learning:</h2>
 
-- <b>Front-end and Web Design:</b>
+- <b>Front-end Web Design:</b>
    - React.js, Tailwind CSS
+- <b> Back-end Web Development:</b>
+   - Spring Boot, MongoDB
 - <b>Machine Learning:</b>
    - PyTorch, pandas
