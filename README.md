@@ -11,6 +11,9 @@
   <img img width="350" height="350" align="right" src="https://github.com/ErinF10/ErinF10/assets/144135752/5418d2c7-e0c7-4341-b91d-0d580848b65b">
 </picture>
 
+- <b>Web Development:</b>
+  - [CS Trivia Game: JavaScript](https://github.com/ErinF10/Who-Wants-To-Be-A-Millionaire-)
+
 - <b>Database Management and Design:</b>
   - ["Fetsy" Database: MySQL](https://github.com/ErinF10/-Fetsy-Practice-Database)
 - <b>Data Structures and Algorithms Practice:</b>
@@ -25,16 +28,16 @@
 
 <h3>In Progress...</h3>
 
-- <b>Web Development:</b>
-   - [CS Trivia Game: JavaScript](https://github.com/ErinF10/Who-Wants-To-Be-A-Millionaire-)
-   - [Todo App: React](https://github.com/ErinF10/todo-app)
-   - [Review Application- freeCodeCamp: Java, Spring Boot, MongoDB, React](https://github.com/ErinF10/review-application-freeCodeCamp)
+- <b>Eco Habit Tracker:  [(Link)](https://github.com/ErinF10/Eco-Habit-Tracker) </b>
+  - Frontend: React, JavaScript
+  - Backend: FastAPI, Python, Docker, MySQL
+
 
 <h2>What I'm Learning:</h2>
 
 - <b>Front-end Web Design:</b>
    - React.js, Tailwind CSS
 - <b> Back-end Web Development:</b>
-   - Spring Boot, MongoDB
+   - Spring Boot, MongoDB, FastAPI, Docker
 - <b>Machine Learning:</b>
    - PyTorch, pandas
