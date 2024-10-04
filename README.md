@@ -33,7 +33,7 @@
 
 <h3>In Progress...</h3>
 
-- <b>Eco Habit Tracker:  [(Link)](https://github.com/ErinF10/Eco-Habit-Tracker) </b>
+- <b>Eco Habit Tracker:  [(Link)](https://github.com/ErinF10/eco_habit_tracker) </b>
   - Frontend: React, JavaScript
   - Backend: FastAPI, Python, Docker, MySQL
 
