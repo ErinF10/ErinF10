@@ -5,6 +5,7 @@
 
 <h2>CodePath Web Development Projects (React)</h2>
 
+  - [Library Dashboard](https://github.com/ErinF10/library-dashboard)
   - [Digital Museum](https://github.com/ErinF10/ditigal-museum)
   - [Mandarin Flashcards](https://github.com/ErinF10/mandarin-flashcards)
   - [Professor Ratings Board](https://github.com/ErinF10/Brooklyn-Collge-Professor-Board)
