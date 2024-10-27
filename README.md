@@ -9,7 +9,7 @@
   - [Mandarin Flashcards](https://github.com/ErinF10/mandarin-flashcards)
   - [Professor Ratings Board](https://github.com/ErinF10/Brooklyn-Collge-Professor-Board)
 
-<h2>Technical Projects:</h2>
+<h2>Personal Projects:</h2>
 
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ErinF10/ErinF10/assets/144135752/a67f9542-562e-4b0e-9671-72dcf4a8134a">
