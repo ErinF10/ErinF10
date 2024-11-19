@@ -5,6 +5,7 @@
 
 <h2>CodePath Web Development Projects (React)</h2>
 
+  - <strong>Final Project:</strong> [Eco Board](https://github.com/ErinF10/eco-board)
   - [Library Dashboard](https://github.com/ErinF10/library-dashboard)
   - [Digital Museum](https://github.com/ErinF10/ditigal-museum)
   - [Mandarin Flashcards](https://github.com/ErinF10/mandarin-flashcards)
