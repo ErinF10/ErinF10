@@ -1,7 +1,7 @@
  <!-- <a href="https://github.com/ErinF10/ErinF10/assets/144135752/3b3807fa-db80-47a1-9ad9-0c348fc9187b"><img width="870" height="220"  src="https://github.com/ErinF10/ErinF10/assets/144135752/3b3807fa-db80-47a1-9ad9-0c348fc9187b"></a> -->
 <!--  <a href="(https://github.com/ErinF10/ErinF10/assets/144135752/e4319fbf-6d6d-4abb-a4e9-c3b91bb420ec)"><img width="870" height="230" src="https://github.com/ErinF10/ErinF10/assets/144135752/e4319fbf-6d6d-4abb-a4e9-c3b91bb420ec"></a> -->
 
-<h1>Hi, I'm Erin :) <br/><a href="https://drive.google.com/file/d/1FDSPqpGgZttoM-zdQIui_OUG042DkZWF/view?usp=sharing">Aspiring Full Stack Developer</a> and  <a href="https://www.linkedin.com/in/erin-forrest-267083258/">CS Student at Brooklyn College</a></h1>
+<h1>Hi, I'm Erin :) <br/><a href="https://drive.google.com/file/d/1FDSPqpGgZttoM-zdQIui_OUG042DkZWF/view?usp=sharing">Aspiring Full Stack Developer</a> and  <a href="https://www.linkedin.com/in/erin-forrest-267083258/">CS Graduate from Brooklyn College</a></h1>
 
 <h2>CodePath Web Development Projects (React)</h2>
 
