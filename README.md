@@ -31,7 +31,7 @@
   - [CS Trivia Game: JavaScript](https://github.com/ErinF10/Who-Wants-To-Be-A-Millionaire-)
    
 - <b>Database Management and Design:</b>
-  - ["Fetsy" Database: MySQL](https://github.com/ErinF10/-Fetsy-Practice-Database)
+  - ["Fetsy" Database: MySQL](https://github.com/ErinF10/Fetsy-Database)
 - <b>Data Structures and Algorithms Practice:</b>
   - [Practicing DS & Algos in Java](https://github.com/ErinF10/DS-and-Algos-Practice/tree/main)
   - [Practicing DS & Algos in Python](https://github.com/ErinF10/Practicing-DS-and-Algos-in-Python.git)
