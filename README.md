@@ -26,17 +26,15 @@
 
 - <b>Full Stack:</b>
   - [CS Trivia Game: JavaScript](https://github.com/ErinF10/Who-Wants-To-Be-A-Millionaire-)
-   
 - <b>Database Management and Design:</b>
   - ["Fetsy" Database: MySQL](https://github.com/ErinF10/Fetsy-Database)
+- <b>Backend:</b>
+  - [Bank Application: Java](https://github.com/ErinF10/Bank-Application)
+  - [Small Projects: Java](https://github.com/ErinF10/Java-Projects)
+  - [Small Projects: Python](https://github.com/ErinF10/Python-Projects)
 - <b>Data Structures and Algorithms Practice:</b>
   - [Practicing DS & Algos in Java](https://github.com/ErinF10/DS-and-Algos-Practice/tree/main)
   - [Practicing DS & Algos in Python](https://github.com/ErinF10/Practicing-DS-and-Algos-in-Python.git)
-- <b>Java:</b>
-  - [Bank Application](https://github.com/ErinF10/Bank-Application)
-  - [Small Projects](https://github.com/ErinF10/Java-Projects)
-- <b>Python:</b>
-  - [Small Projects](https://github.com/ErinF10/Python-Projects)
 
 <h2>Hackathon Projects</h2>
 
