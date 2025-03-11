@@ -38,6 +38,8 @@
 
 <h2>Hackathon Projects</h2>
 
+- <b>Queens College Hack Knight:</b>
+  - [PictoBite: React, TypeScript](https://github.com/ErinF10/PictoBite)
 - <b>Brooklyn College Hackathon:</b>
   - [Techberry: React](https://github.com/Kyrushiqi/bc-hackathon)
 
