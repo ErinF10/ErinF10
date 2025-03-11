@@ -46,8 +46,7 @@
 <h2>What I'm Learning:</h2>
 
 - <b>Front-end Web Design:</b>
-   - React.js, Tailwind CSS
-- <b> Back-end Web Development:</b>
-   - Spring Boot, FastAPI, Docker, pydantic
-- <b>Machine Learning:</b>
-   - numpy
+   - Next.js, TypeScript, Bootstrap, Tailwind CSS
+- <b>Back-end Web Development:</b>
+   - FastAPI, Docker, pydantic
+
