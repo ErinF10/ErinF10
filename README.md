@@ -24,7 +24,7 @@
 
 <h3>Complete:</h3>
 
-- <b>Full Stack:</b>
+- <b>Frontend:</b>
   - [CS Trivia Game: JavaScript](https://github.com/ErinF10/Who-Wants-To-Be-A-Millionaire-)
 - <b>Database Management and Design:</b>
   - ["Fetsy" Database: MySQL](https://github.com/ErinF10/Fetsy-Database)
