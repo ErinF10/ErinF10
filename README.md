@@ -45,12 +45,9 @@
 
 <h2>What I'm Learning:</h2>
 
-- <b>Mobile Development:</b>
-   - React Native
+- <b>Mobile Development:</b> React Native
    
-- <b>Front-end:</b>
-   - Next.js, TypeScript, Bootstrap, Tailwind CSS
+- <b>Front-end:</b> Next.js, TypeScript, Bootstrap, Tailwind CSS
  
-- <b>Back-end:</b>
-   - FastAPI, pydantic
+- <b>Back-end:</b> FastAPI, pydantic
 
