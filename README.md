@@ -1,14 +1,5 @@
 <h1>Hi, I'm Erin :) <br/><a href="https://drive.google.com/file/d/1FDSPqpGgZttoM-zdQIui_OUG042DkZWF/view?usp=sharing">Aspiring Full Stack Developer</a> and  <a href="https://www.linkedin.com/in/erin-forrest-267083258/">CS Graduate from Brooklyn College</a></h1>
 
-<h2>CodePath Web Development Projects (React)</h2>
-
-  - <strong>Final Project:</strong> [Eco Board](https://github.com/ErinF10/eco-board)
-  - [Candybox](https://github.com/ErinF10/candybox)
-  - [Library Dashboard](https://github.com/ErinF10/library-dashboard)
-  - [Digital Museum](https://github.com/ErinF10/ditigal-museum)
-  - [Mandarin Flashcards](https://github.com/ErinF10/mandarin-flashcards)
-  - [Professor Ratings Board](https://github.com/ErinF10/Brooklyn-Collge-Professor-Board)
-
 <h2>Personal Projects:</h2>
 
 <picture> 
@@ -42,11 +33,21 @@
   - [PictoBite: React, TypeScript](https://github.com/ErinF10/PictoBite)
 - <b>Brooklyn College Hackathon:</b>
   - [Techberry: React](https://github.com/Kyrushiqi/bc-hackathon)
+ 
+<h2>CodePath Web Development Projects (React)</h2>
+
+  - <strong>Final Project:</strong> [Eco Board](https://github.com/ErinF10/eco-board)
+  - [Candybox](https://github.com/ErinF10/candybox)
+  - [Library Dashboard](https://github.com/ErinF10/library-dashboard)
+  - [Digital Museum](https://github.com/ErinF10/ditigal-museum)
+  - [Mandarin Flashcards](https://github.com/ErinF10/mandarin-flashcards)
+  - [Professor Ratings Board](https://github.com/ErinF10/Brooklyn-Collge-Professor-Board)
 
 <h2>What I'm Learning:</h2>
-
-- <b>Front-end Web Design:</b>
+- <b>Mobile Development:</b>
+   - React Native
+- <b>Front-end:</b>
    - Next.js, TypeScript, Bootstrap, Tailwind CSS
-- <b>Back-end Web Development:</b>
-   - FastAPI, Docker, pydantic
+- <b>Back-end:</b>
+   - FastAPI, pydantic
 
