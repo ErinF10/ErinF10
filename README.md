@@ -1,5 +1,12 @@
 <h1>Hi, I'm Erin :) <br/><a href="https://drive.google.com/file/d/1FDSPqpGgZttoM-zdQIui_OUG042DkZWF/view?usp=sharing">Aspiring Full Stack Developer</a> and  <a href="https://www.linkedin.com/in/erin-forrest-267083258/">CS Graduate from Brooklyn College</a></h1>
 
+<h2>Hackathon Projects</h2>
+
+- <b>Queens College Hack Knight:</b>
+  - [PictoBite: React, TypeScript](https://github.com/ErinF10/PictoBite)
+- <b>Brooklyn College Hackathon:</b>
+  - [Techberry: React](https://github.com/Kyrushiqi/bc-hackathon)
+
 <h2>Personal Projects:</h2>
 
 <picture> 
@@ -26,13 +33,6 @@
 - <b>Data Structures and Algorithms Practice:</b>
   - [Practicing DS & Algos in Java](https://github.com/ErinF10/DS-and-Algos-Practice/tree/main)
   - [Practicing DS & Algos in Python](https://github.com/ErinF10/Practicing-DS-and-Algos-in-Python.git)
-
-<h2>Hackathon Projects</h2>
-
-- <b>Queens College Hack Knight:</b>
-  - [PictoBite: React, TypeScript](https://github.com/ErinF10/PictoBite)
-- <b>Brooklyn College Hackathon:</b>
-  - [Techberry: React](https://github.com/Kyrushiqi/bc-hackathon)
  
 <h2>CodePath Web Development Projects (React)</h2>
 
