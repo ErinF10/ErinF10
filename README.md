@@ -46,7 +46,7 @@
 <h2>What I'm Learning:</h2>
 
 - <b>Mobile Development:</b> React Native
-   
+   - [Movie App](https://github.com/ErinF10/movie-app)
 - <b>Front-end:</b> Next.js, TypeScript, Bootstrap, Tailwind CSS
  
 - <b>Back-end:</b> FastAPI, pydantic
