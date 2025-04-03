@@ -24,8 +24,8 @@
   - [Small Projects: Java](https://github.com/ErinF10/Java-Projects)
   - [Small Projects: Python](https://github.com/ErinF10/Python-Projects)
 - <b>Data Structures and Algorithms Practice:</b>
-  - [Practicing DS & Algos in Java](https://github.com/ErinF10/DS-and-Algos-Practice/tree/main)
   - [Practicing DS & Algos in Python](https://github.com/ErinF10/Practicing-DS-and-Algos-in-Python.git)
+  - [Practicing DS & Algos in Java](https://github.com/ErinF10/DS-and-Algos-Practice/tree/main)
 
 <h2>Hackathon Projects</h2>
 
