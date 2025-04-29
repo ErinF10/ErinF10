@@ -26,6 +26,10 @@
 - <b>Data Structures and Algorithms Practice:</b>
   - [Practicing DS & Algos in Python](https://github.com/ErinF10/Practicing-DS-and-Algos-in-Python.git)
   - [Practicing DS & Algos in Java](https://github.com/ErinF10/DS-and-Algos-Practice/tree/main)
+- <b>Machine Learning:</b>
+  - [Decision Tree](https://github.com/ErinF10/Project-1-Decision-Tree)
+  - [Perceptron & Linear Regression](https://github.com/ErinF10/Project-2-Perceptron-Linear-Regression)
+  - [K Nearest Neighbors](https://github.com/ErinF10/HW4-KNN)
 
 <h2>Hackathon Projects</h2>
 
