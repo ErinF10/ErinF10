@@ -15,10 +15,10 @@
 
 <h3>Complete:</h3>
 
-- <b>Frontend:</b>
-  - [CS Trivia Game: JavaScript](https://github.com/ErinF10/Who-Wants-To-Be-A-Millionaire-)
 - <b>Database Management and Design:</b>
   - ["Fetsy" Database: MySQL](https://github.com/ErinF10/Fetsy-Database)
+- <b>Frontend:</b>
+  - [CS Trivia Game: JavaScript](https://github.com/ErinF10/Who-Wants-To-Be-A-Millionaire-)
 - <b>Backend:</b>
   - [Bank Application: Java](https://github.com/ErinF10/Bank-Application)
   - [Small Projects: Java](https://github.com/ErinF10/Java-Projects)
@@ -48,10 +48,9 @@
   - [Professor Ratings Board](https://github.com/ErinF10/Brooklyn-Collge-Professor-Board)
 
 <h2>What I'm Learning:</h2>
-
+- <b>Machine Learning/Data Science: Pytorch, Pandas</b>
 - <b>Mobile Development:</b> React Native
    - [Movie App](https://github.com/ErinF10/movie-app)
 - <b>Front-end:</b> Next.js, TypeScript, Bootstrap, Tailwind CSS
- 
 - <b>Back-end:</b> FastAPI, pydantic
 
