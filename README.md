@@ -48,12 +48,13 @@
   - [Professor Ratings Board](https://github.com/ErinF10/Brooklyn-Collge-Professor-Board)
 
 <h2>What I'm Learning:</h2>
-- <b>Machine Learning/Data Science: Pytorch, Pandas</b>
 
-- <b>Mobile Development:</b> React Native
-   - [Movie App](https://github.com/ErinF10/movie-app)
+  - <b>Machine Learning/Data Science:</b> Pytorch, Pandas
+
+  - <b>Mobile Development:</b> React Native
+    - [Movie App](https://github.com/ErinF10/movie-app)
  
-- <b>Front-end:</b> Next.js, TypeScript, Bootstrap, Tailwind CSS
+  - <b>Front-end:</b> Next.js, TypeScript, Bootstrap, Tailwind CSS
 
-- <b>Back-end:</b> FastAPI, pydantic
+  - <b>Back-end:</b> FastAPI, pydantic
 
