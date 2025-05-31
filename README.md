@@ -49,7 +49,7 @@
 
 <h2>What I'm Learning:</h2>
 
-  - <b>Machine Learning/Data Science:</b> Pytorch, Pandas
+  - <b>Machine Learning/Data Science:</b> Pytorch, Pandas, Neo4j
 
   - <b>Mobile Development:</b> React Native
     - [Movie App](https://github.com/ErinF10/movie-app)
