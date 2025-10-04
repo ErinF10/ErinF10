@@ -33,7 +33,7 @@
 
 <h2>Hackathon Projects</h2>
 
-- <b>Queens College Hack Knight: (Most Popular Runner-up)</b>
+- <b>Queens College Hack Knight: (2nd Place Winner: Most Popular Track)</b>
   - [PictoBite: React, TypeScript](https://github.com/ErinF10/PictoBite)
 - <b>Brooklyn College Hackathon:</b>
   - [Techberry: React](https://github.com/Kyrushiqi/bc-hackathon)
