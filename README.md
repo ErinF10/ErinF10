@@ -38,7 +38,7 @@
 - <b>Brooklyn College Hackathon:</b>
   - [Techberry: React](https://github.com/Kyrushiqi/bc-hackathon)
  
-<h2>CodePath Web Development Projects (React)</h2>
+<h2>CodePath Web Dev Projects (React)</h2>
 
   - <strong>Final Project:</strong> [Eco Board](https://github.com/ErinF10/eco-board)
   - [Candybox](https://github.com/ErinF10/candybox)
@@ -54,7 +54,7 @@
   - <b>Mobile Development:</b> React Native
     - [Movie App](https://github.com/ErinF10/movie-app)
  
-  - <b>Front-end:</b> Next.js, TypeScript, Bootstrap, Tailwind CSS
+  - <b>Front-end:</b> Next.js, TypeScript
 
   - <b>Back-end:</b> FastAPI, pydantic
 
