@@ -9,6 +9,9 @@
 
 <h3>In Progress...</h3>
 
+- <b>Mood Journal: [(Link)](https://github.com/ZurabC19/MoodJournal) </b>
+  - Frontend: JavaScript
+  - Backend: Python
 - <b>Eco Habit Tracker:  [(Link)](https://github.com/ErinF10/eco_habit_tracker) </b>
   - Frontend: React, JavaScript
   - Backend: FastAPI, Python, Docker, MySQL
