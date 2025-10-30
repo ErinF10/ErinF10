@@ -14,7 +14,7 @@
   - Backend: Python
 - <b>Eco Habit Tracker:  [(Link)](https://github.com/ErinF10/eco_habit_tracker) </b>
   - Frontend: React, JavaScript
-  - Backend: FastAPI, Python, Docker, MySQL
+  - Backend: FastAPI, Python, MySQL
 
 <h3>Complete:</h3>
 
