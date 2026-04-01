@@ -9,6 +9,8 @@
 
 <h3>In Progress...</h3>
 
+- <b>Process users Script: [(Link)](https://github.com/ErinF10/Process-Users-Script) </b>
+  - Bash
 - <b>Mood Journal: [(Link)](https://github.com/ZurabC19/MoodJournal) </b>
   - Frontend: JavaScript
   - Backend: Python
